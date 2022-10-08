@@ -1,13 +1,23 @@
 ## Introduce
 개발자 및 개발자를 희망하는 팀원들끼리 기술 면접을 대비하고 공부하기 위해 만든 리포지토리입니다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2FBaikSeungJeon%2FInterviewgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Today&edge_flat=true)](https://hits.seeyoufarm.com)
-
 ## Members
-- [강민규](https://github.com/kagrin97)
-- [류웅선](https://github.com/unsnruu)
-- [백승전](https://github.com/baikseungjeon)
+<table>
+	<th>백승전</th>
+	<th>강민규</th>
+  <th>류웅선</th>
+	<tr>
+	    <td>본인사진 넣어주세여</td>
+	    <td>
+      <a target='_blank' href="https://github.com/kagrin97">
+<img width="80px" src="https://user-images.githubusercontent.com/75124028/194712606-04d3ff01-49aa-4154-89a9-448109f21106.jpg" /></a></td>
+      <td>본인사진 넣어주세여</td>
+	</tr>
+    </table>
+
 
 ## Contents
 - [CS](https://github.com/BaikSeungJeon/Interview/tree/main/CS)
 - [Web](https://github.com/BaikSeungJeon/Interview/tree/main/Web)
+- [javascript](https://github.com/BaikSeungJeon/Interview/tree/main/javascript)
+- [DesignPattern](https://github.com/BaikSeungJeon/Interview/tree/main/DesignPattern)
