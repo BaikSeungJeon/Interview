@@ -7,11 +7,15 @@
 	<th>강민규</th>
   <th>류웅선</th>
 	<tr>
-	    <td>본인사진 넣어주세여</td>
+	    <td>
+	    	<a target='_blank' href='https://github.com/baikseungjeon'>
+			<img width='80px' src='https://user-images.githubusercontent.com/85447054/194734362-be5f713e-a542-416d-a833-66e7a3b796cd.jpeg' />
+	    	</a>
+	    </td>
 	    <td>
       <a target='_blank' href="https://github.com/kagrin97">
 <img width="80px" src="https://user-images.githubusercontent.com/75124028/194712606-04d3ff01-49aa-4154-89a9-448109f21106.jpg" /></a></td>
-      <td>본인사진 넣어주세여</td>
+      <td>이미지 없음</td>
 	</tr>
     </table>
 
