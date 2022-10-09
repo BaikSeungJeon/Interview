@@ -35,7 +35,11 @@
     </table>
     
 ## Contents
-- [CS](https://github.com/BaikSeungJeon/Interview/tree/main/CS)
-- [Web](https://github.com/BaikSeungJeon/Interview/tree/main/Web)
-- [javascript](https://github.com/BaikSeungJeon/Interview/tree/main/javascript)
-- [DesignPattern](https://github.com/BaikSeungJeon/Interview/tree/main/DesignPattern)
+- ### [CS](https://github.com/BaikSeungJeon/Interview/tree/main/CS)
+- ### [Web](https://github.com/BaikSeungJeon/Interview/tree/main/Web)
+- ### [javascript](https://github.com/BaikSeungJeon/Interview/tree/main/javascript)
+  - callback 패턴과 promise의 차이점과 장단점
+  - Prototype, Prototype chain, [[Prototype]] 슬롯과 prototype 프로퍼티의 차이점
+- ### [DesignPattern](https://github.com/BaikSeungJeon/Interview/tree/main/DesignPattern)
+  - Flux패턴과 사용하는 이유 그리고 문제
+  - MVC패턴과 사용하는 이유 그리고 문제 
