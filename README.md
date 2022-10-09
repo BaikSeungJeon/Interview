@@ -37,7 +37,7 @@
 ## Contents
 - ### [CS](https://github.com/BaikSeungJeon/Interview/tree/main/CS)
 - ### [Web](https://github.com/BaikSeungJeon/Interview/tree/main/Web)
-- ### [javascript](https://github.com/BaikSeungJeon/Interview/tree/main/javascript)
+- ### [JavaScript](https://github.com/BaikSeungJeon/Interview/tree/main/JavaScript)
   - callback 패턴과 promise의 차이점과 장단점
   - Prototype, Prototype chain, [[Prototype]] 슬롯과 prototype 프로퍼티의 차이점
 - ### [DesignPattern](https://github.com/BaikSeungJeon/Interview/tree/main/DesignPattern)
