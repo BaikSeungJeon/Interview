@@ -1,5 +1,5 @@
 ### TypeScript?
-- TypeScript is JavaScript with syntax for types 👉 타입 구문이 있는 JavaScript
+- TypeScript is JavaScript with syntax for types 👉 타입 구문이 있는 JavaScript.
 
 <Table>
   <th>JavaScript and More</th>
