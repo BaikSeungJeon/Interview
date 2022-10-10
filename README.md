@@ -11,7 +11,7 @@
           <a target="_blank" href="https://github.com/baikseungjeon">
             <img
               width="160px"
-              src="https://user-images.githubusercontent.com/85447054/194734362-be5f713e-a542-416d-a833-66e7a3b796cd.jpeg"
+              src="https://user-images.githubusercontent.com/85447054/194862402-399ff363-dff1-44c0-8294-5fa6602ab1b4.png"
             />
           </a>
         </td>
