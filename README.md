@@ -48,3 +48,21 @@
   - GitHub vs GitLab vs BitBucket 
   - Redux vs Mobx vs Recoil
   - React-query vs SWR
+  - Array vs Set
+- ### [Algorithm Sort](https://github.com/BaikSeungJeon/Interview/tree/main/Algorithm%20Sort)
+  - Number Sort
+    - 버블 정렬
+    - 버블 정렬
+    - 선택 정렬
+    - 삽입 정렬
+    - 퀵 정렬
+    - 합병 정렬
+  - String Sort
+    - Naive(순진한)
+    - Rabin-Karp(라빈 카프)
+    - KMP
+    - Boyer Moore(보이어-무어)
+- ### [Data Structure](https://github.com/BaikSeungJeon/Interview/tree/main/Data%20Structure)
+  - Graph
+    - 그래프 용어 (노드, 엣지, 무방향그래프)
+    - 그래프 표현 (인접행렬, 인접리스트)
