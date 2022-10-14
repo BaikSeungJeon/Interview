@@ -5,3 +5,4 @@
 - [React-query vs SWR](https://github.com/BaikSeungJeon/Interview/blob/main/Interview/React-query%20vs%20SWR.md)
 - [Fetch vs Axios](https://github.com/BaikSeungJeon/Interview/blob/main/Interview/Fetch%20vs%20Axios.md)
 - [TypeScript](https://github.com/BaikSeungJeon/Interview/blob/main/Interview/TypeScript.md)
+- [Array vs Set](https://github.com/BaikSeungJeon/Interview/blob/main/Interview/Array%20vs%20Set.md)
