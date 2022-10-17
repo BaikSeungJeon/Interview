@@ -10,6 +10,7 @@
 ## Network
 - [TCP와 UDP](https://github.com/BaikSeungJeon/Interview/blob/main/CS/TCP%EC%99%80%20UDP.md)
 - [HTTPS란?](https://github.com/BaikSeungJeon/Interview/blob/main/CS/HTTPS%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md)
+- [GLSB란?](https://github.com/BaikSeungJeon/Interview/blob/main/CS/GLSB%EB%9E%80.md)
 
 ## OS
 - [fork() 함수란?](https://github.com/BaikSeungJeon/Interview/blob/main/CS/fork()%20%ED%95%A8%EC%88%98.md)
