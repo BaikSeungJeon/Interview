@@ -1,5 +1,3 @@
-- ### [Graph](https://github.com/BaikSeungJeon/Interview/blob/main/Data%20Structure/Graph.md)
-  - 그래프 용어
-  - 그래프 표현
-    - 인접 행렬
-    - 인접 리스트
+## Data Strucutre
+
+### [Graph](https://github.com/BaikSeungJeon/Interview/blob/main/Data%20Structure/Graph.md)

@@ -1,4 +1,4 @@
-### TypeScript?
+## TypeScript
 - TypeScript is JavaScript with syntax for types 👉 타입 구문이 있는 JavaScript.
 
 <Table>
