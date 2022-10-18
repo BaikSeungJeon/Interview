@@ -61,7 +61,7 @@
     - [Protytype](https://github.com/BaikSeungJeon/Interview/blob/main/FrontEnd/JavaScript/Prototype.md)
     - [Callback 패턴과 promise](https://github.com/BaikSeungJeon/Interview/blob/main/FrontEnd/JavaScript/callback%20%ED%8C%A8%ED%84%B4%EA%B3%BC%20promise.md)
     - [함수선언식 vs 함수표현식 vs 화살표함수](https://github.com/BaikSeungJeon/Interview/blob/main/FrontEnd/JavaScript/%ED%95%A8%EC%88%98%EC%84%A0%EC%96%B8%EC%8B%9D%20vs%20%ED%95%A8%EC%88%98%ED%91%9C%ED%98%84%EC%8B%9D%20vs%20%ED%99%94%EC%82%B4%ED%91%9C%ED%95%A8%EC%88%98.md)
-    - [TypeScript]()
+    - [TypeScript](https://github.com/BaikSeungJeon/Interview/blob/main/FrontEnd/JavaScript/TypeScript.md)
   - #### React
     - [React란]()
 ### Interview
