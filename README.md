@@ -41,7 +41,7 @@
 - ### [JavaScript](https://github.com/BaikSeungJeon/Interview/tree/main/JavaScript)
   - [callback 패턴과 promise](https://github.com/BaikSeungJeon/Interview/blob/main/JavaScript/callback%20%ED%8C%A8%ED%84%B4%EA%B3%BC%20promise.md)
   - [Prototype](https://github.com/BaikSeungJeon/Interview/blob/main/JavaScript/Prototype.md)
-  - [함수선언식 vs 함수표현식 vs 화살표함수](https://github.com/BaikSeungJeon/Interview/blob/main/JavaScript/%ED%95%A8%EC%88%98%EC%84%A0%EC%96%B8%EC%8B%9Dvs%ED%95%A8%EC%88%98%ED%91%9C%ED%98%84%EC%8B%9Dvs%ED%99%94%EC%82%B4%ED%91%9C%ED%95%A8%EC%88%98.md)
+  - [함수선언식 vs 함수표현식 vs 화살표함수](https://github.com/BaikSeungJeon/Interview/blob/main/JavaScript/%ED%95%A8%EC%88%98%EC%84%A0%EC%96%B8%EC%8B%9D%20vs%20%ED%95%A8%EC%88%98%ED%91%9C%ED%98%84%EC%8B%9D%20vs%20%ED%99%94%EC%82%B4%ED%91%9C%ED%95%A8%EC%88%98.md)
 - ### [DesignPattern](https://github.com/BaikSeungJeon/Interview/tree/main/DesignPattern)
   - Flux패턴과 사용하는 이유 그리고 문제
   - MVC패턴과 사용하는 이유 그리고 문제 
