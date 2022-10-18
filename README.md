@@ -38,6 +38,7 @@
 - ### [CS](https://github.com/BaikSeungJeon/Interview/tree/main/CS)
 - ### [Web](https://github.com/BaikSeungJeon/Interview/tree/main/Web)
   - [SSR과 CSR](https://github.com/BaikSeungJeon/Interview/blob/main/Web/SSR%EA%B3%BC%20CSR.md)
+  - [JWT](https://github.com/BaikSeungJeon/Interview/blob/main/Web/JWT.md)
 - ### [JavaScript](https://github.com/BaikSeungJeon/Interview/tree/main/JavaScript)
   - [callback 패턴과 promise](https://github.com/BaikSeungJeon/Interview/blob/main/JavaScript/callback%20%ED%8C%A8%ED%84%B4%EA%B3%BC%20promise.md)
   - [Prototype](https://github.com/BaikSeungJeon/Interview/blob/main/JavaScript/Prototype.md)
