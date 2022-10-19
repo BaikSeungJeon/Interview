@@ -18,15 +18,14 @@
 
 ### 아스키코드랑 유니코드랑 차이점
 
-- 아스키코드란?
-아스키코드(ASCII: American Standard Code for Information Interchange)는 이름에 나와 있는 미국에서 정의한 표준화 한 부호 체계이다.
-그런데 아스키코드는 7비트 즉, 128개의 고유한 값만 사용한다.
-그렇기 때문에 이러한 아스키코드를 가지고 각 나라별 언어를 표현하기에 제한이 걸릴 수밖에 없었고,
+- 아스키코드(ASCII: American Standard Code for Information Interchange)란?
+아스키코드는 이름에 나와 있는 미국에서 정의한 표준화 한 부호 체계이다.<br>
+그런데 아스키코드는 7비트 즉, 128개의 고유한 값만 사용한다.<br>
+그렇기 때문에 이러한 아스키코드를 가지고 각 나라별 언어를 표현하기에 제한이 걸릴 수밖에 없었고,<br>
 이를 해결하기 위해 유니코드가 탄생하게 된 것이다.
 
 
 ### 참고
 
-[본인 벨로그](https://velog.io/@veklog/TIL-221018-%EB%AA%A9)
-
+[본인 벨로그](https://velog.io/@veklog/TIL-221018-%EB%AA%A9)<br>
 [아스키(ASCII)코드와 유니코드(Unicode)의 이해](https://whatisthenext.tistory.com/m/103)
