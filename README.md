@@ -48,6 +48,7 @@
   - [JWT란](https://github.com/BaikSeungJeon/Interview/blob/main/Web/JWT.md)
   - [SSR과 CSR](https://github.com/BaikSeungJeon/Interview/blob/main/Web/SSR%EA%B3%BC%20CSR.md)
   - [UTF-8](https://github.com/BaikSeungJeon/Interview/blob/main/Web/UTF-8.md)
+  - [Core web Vitals](https://github.com/BaikSeungJeon/Interview/blob/main/Web/Core%20web%20Vitals.md)
 ### Design Pattern
   - [Flux 패턴](https://github.com/BaikSeungJeon/Interview/blob/main/Design%20Pattern/Flux%20%ED%8C%A8%ED%84%B4.md)
   - [MVC 패턴](https://github.com/BaikSeungJeon/Interview/blob/main/Design%20Pattern/MVC%20%ED%8C%A8%ED%84%B4.md)
