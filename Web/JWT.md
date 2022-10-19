@@ -5,10 +5,10 @@
   
 ### JWT 특징 ([출처](https://velopert.com/2389))
   - 수많은 프로그래밍 언어에서 지원
-    - JWT 는 C, Java, Python, C++, R, C#, PHP, JavaScript, Ruby, Go, Swift 등 **대부분의 주류 프로그래밍 언어에서 지원**된다.
+    - JWT 는 C, Java, Python, C++, R, C#, PHP, JavaScript, Ruby, Go, Swift 등 **대부분의 주류 프로그래밍 언어에서 지원**됩니다.
   - 자가 수용적 (self-contained) 
     - JWT 는 **필요한 모든 정보를 자체적**으로 지니고 있습니다.
-    - 또한 **토큰이 검증됐다는것 을 증명**해주는 **signature를 포함**하고있습니다.
+    - 또한 **토큰이 검증됐다는것 을 증명**해주는 **signature를 포함**하고 있습니다.
   - 쉽게 전달 될 수 있다
     - **JWT 는 자가수용적**이므로, **두 개체 사이에서 손쉽게 전달** 될 수 있습니다. 웹서버의 경우 HTTP의 헤더에 넣어서 전달 할 수도 있고, URL 의 파라미터로 전달 할 수도 있습니다.
 
@@ -20,7 +20,7 @@
 - alg: 해싱 알고리즘 지정
 
 #### Payload
-- 토큰에 담을 정보가 들어있다.
+- 토큰에 담을 정보가 들어있습니다.
 - name/value 한 쌍으로 이뤄진 claim이 존재
 - claim의 세 분류
   - 등록된 (registered) 클레임
