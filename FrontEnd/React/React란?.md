@@ -18,4 +18,4 @@
 ---
 
 ### 참고
-[본인 벨로그](https://velog.io/@veklog/TIL-221018-%EB%AA%A9)
+[백승전 TIL Repo](https://github.com/BaikSeungJeon/TIL/blob/main/2022/10/TIL1018%20Tech%20Interview.md)
