@@ -45,8 +45,8 @@
     - [TCP와 UDP](https://github.com/BaikSeungJeon/Interview/blob/main/CS/Network/TCP%EC%99%80%20UDP.md)
   - #### OS
     - [fork()란?](https://github.com/BaikSeungJeon/Interview/blob/main/CS/OS/fork()%20%ED%95%A8%EC%88%98.md)
-    - [Swap](https://github.com/BaikSeungJeon/Interview/blob/main/Linux/Swap.md)
-    - [리눅스 커널](https://github.com/BaikSeungJeon/Interview/blob/main/Linux/%EB%A6%AC%EB%88%85%EC%8A%A4%20%EC%BB%A4%EB%84%90.md)
+    - [Swap](https://github.com/BaikSeungJeon/Interview/blob/main/CS/OS/Swap.md)
+    - [리눅스 커널](https://github.com/BaikSeungJeon/Interview/blob/main/CS/OS/리눅스%20커널.md)
 ### Web
   - [JWT란](https://github.com/BaikSeungJeon/Interview/blob/main/Web/JWT.md)
   - [SSR과 CSR](https://github.com/BaikSeungJeon/Interview/blob/main/Web/SSR%EA%B3%BC%20CSR.md)
