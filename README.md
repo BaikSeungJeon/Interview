@@ -66,6 +66,8 @@
   - [React Query vs SWR](https://github.com/BaikSeungJeon/Interview/blob/main/Interview/React-query%20vs%20SWR.md)
   - [Redux vs Mobx vs Recoil vs Context](https://github.com/BaikSeungJeon/Interview/blob/main/Interview/Redux%20vs%20Mobx%20vs%20Recoil%20vs%20Context.md)
   - [Github vs Gitlab vs BitBucket](https://github.com/BaikSeungJeon/Interview/blob/main/Interview/GitHub%20vs%20GitLab%20vs%20BitBucket.md)
+  - [SSG vs ISR](https://github.com/BaikSeungJeon/Interview/blob/main/Interview/SSG%20vs%20ISR.md)
+  - [Mobile Wep App vs Wep App vs Hybrid App vs Native App](https://github.com/BaikSeungJeon/Interview/blob/main/Interview/Mobile%20Wep%20App%20vs%20Wep%20App%20vs%20Hybrid%20App%20vs%20Native%20App.md)
 ### Algorithm
   - [Nuber Sort](https://github.com/BaikSeungJeon/Interview/blob/main/Algorithm/Sort/Number%20Sort.md)
   - [String Sort](https://github.com/BaikSeungJeon/Interview/blob/main/Algorithm/Sort/String%20Sort.md)
