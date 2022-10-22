@@ -52,6 +52,7 @@
 ### Design Pattern
   - [Flux 패턴](https://github.com/BaikSeungJeon/Interview/blob/main/Design%20Pattern/Flux%20%ED%8C%A8%ED%84%B4.md)
   - [MVC 패턴](https://github.com/BaikSeungJeon/Interview/blob/main/Design%20Pattern/MVC%20%ED%8C%A8%ED%84%B4.md)
+  - [Singleton 패턴](https://github.com/BaikSeungJeon/Interview/blob/main/Design%20Pattern/Singleton.md)
 ### Data Structure
   - [Graph](https://github.com/BaikSeungJeon/Interview/blob/main/Data%20Structure/Graph.md)
 ### FrontEnd
@@ -72,3 +73,5 @@
 ### Algorithm
   - [Nuber Sort](https://github.com/BaikSeungJeon/Interview/blob/main/Algorithm/Sort/Number%20Sort.md)
   - [String Sort](https://github.com/BaikSeungJeon/Interview/blob/main/Algorithm/Sort/String%20Sort.md)
+### Architecture
+  - [Hexagonal 아키텍쳐](https://github.com/BaikSeungJeon/Interview/blob/main/Architecture/Hexagonal%20architecture.md)
