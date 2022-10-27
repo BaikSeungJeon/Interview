@@ -70,8 +70,12 @@
   - [Github vs Gitlab vs BitBucket](https://github.com/BaikSeungJeon/Interview/blob/main/Interview/GitHub%20vs%20GitLab%20vs%20BitBucket.md)
   - [SSG vs ISR](https://github.com/BaikSeungJeon/Interview/blob/main/Interview/SSG%20vs%20ISR.md)
   - [Mobile Wep App vs Wep App vs Hybrid App vs Native App](https://github.com/BaikSeungJeon/Interview/blob/main/Interview/Mobile%20Wep%20App%20vs%20Wep%20App%20vs%20Hybrid%20App%20vs%20Native%20App.md)
+  - [SOLID란?](https://github.com/BaikSeungJeon/Interview/blob/main/Interview/SOLID.md)
 ### Algorithm
   - [Nuber Sort](https://github.com/BaikSeungJeon/Interview/blob/main/Algorithm/Sort/Number%20Sort.md)
   - [String Sort](https://github.com/BaikSeungJeon/Interview/blob/main/Algorithm/Sort/String%20Sort.md)
 ### Architecture
   - [Hexagonal 아키텍쳐](https://github.com/BaikSeungJeon/Interview/blob/main/Architecture/Hexagonal%20architecture.md)
+  - [Monolith Repo](https://github.com/BaikSeungJeon/Interview/blob/main/Architecture/Monolith%20Repo.md)
+  - [Muliti repo](https://github.com/BaikSeungJeon/Interview/blob/main/Architecture/Muliti%20repo.md)
+  - [Mono repo](https://github.com/BaikSeungJeon/Interview/blob/main/Architecture/Mono%20repo.md)
